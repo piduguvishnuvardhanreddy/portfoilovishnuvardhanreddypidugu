@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hello vishnu hii
-=======
 hello
->>>>>>> origin/main
